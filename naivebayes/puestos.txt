@@ -1,0 +1,10 @@
+underwriter manager/finance
+mortage data analyst/finance
+junior underwriter/finance
+sales manager/sales
+junior medical sales associate/sales
+senior sales manager/sales
+sales manager/sales
+senior data analyst/technology
+data analyst/technology
+data manager/technology
