@@ -1,6 +1,6 @@
 #Actividad 7 Naive Bayes 
-#Gonzalo Hernández Hernández a01423362
-#José Fernando Ramírez Roldán a01422285
+#Gonzalo Hernández Hernández 
+#José Fernando Ramírez Roldán
 def tablas(puestos, categorias, tipo,z,m):
     lista=[]
     mem=[]
