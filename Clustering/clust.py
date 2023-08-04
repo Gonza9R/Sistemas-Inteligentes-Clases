@@ -7,7 +7,7 @@ import random
 
 #Actividad 9. Problemas que se resuelven con Clustering
 
-
+#Abrir archivos de excel es necesario pip install openpyxl
 #Gonzalo Hernandez Hernandez 
 #Jose Fernando Ramirez Roldan 
 
