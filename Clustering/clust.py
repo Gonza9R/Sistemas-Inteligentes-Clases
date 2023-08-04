@@ -8,8 +8,8 @@ import random
 #Actividad 9. Problemas que se resuelven con Clustering
 
 
-#Gonzalo Hernandez Hernandez A01423362
-#Jose Fernando Ramirez Roldan A01422285
+#Gonzalo Hernandez Hernandez 
+#Jose Fernando Ramirez Roldan 
 
 
 data = pd.read_excel(io='peliculas.xlsx',sheet_name="Sheet1",header=None)
